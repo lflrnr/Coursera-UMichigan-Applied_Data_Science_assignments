@@ -21,6 +21,7 @@ https://www.udemy.com/course/python-for-machine-learning-data-science-masterclas
 If you are looking for data science resources, check out this list:
 
 https://www.learndatasci.com/best-data-science-online-courses/
+
 https://www.levels.fyi/ (data science salaries)
 
 Further courses/textbooks I am interested in:
