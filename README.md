@@ -65,9 +65,9 @@ Matthew Brett's Data Science course borrows heavily from a UC Berkeley DS course
 - http://data8.org/ (The UC Berkeley course)
 
 Here are 3 youtubers that have some cool perspectives:
-  Ken Jee -  https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg
-  Giles McKullen-Klein - https://www.youtube.com/user/consumerchampion
-  Alex the Analyst - https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg (for those trying to enter the field as a Data Analyst)
+- Ken Jee -  https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg
+- Giles McKullen-Klein - https://www.youtube.com/user/consumerchampion
+- Alex the Analyst - https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg (for those trying to enter the field as a Data Analyst)
 
 More Python Data Science resources:
 - https://datatofish.com/python-tutorials/
