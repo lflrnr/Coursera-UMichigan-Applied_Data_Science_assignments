@@ -28,13 +28,17 @@ Further courses/textbooks I am interested in:
 
 Machine Learning by Andrew Ng
 - https://www.coursera.org/learn/machine-learning
+
 Python Data Science Handbook - free textbook recommended by most
 - https://jakevdp.github.io/PythonDataScienceHandbook/
+
 An Introduction to Statistical Learning with Applications in R (ISLR) - free textbook recommended by most
 - https://www.statlearning.com/
 - https://github.com/JWarmenhoven/ISLR-python (converted ISLR's R code to Python)
+
 Statistical Learning @ EdX - 1 course. The course uses R but I may just go through the textbook which is free and there are a few people who have converted the R code to Python and posted their jupyter notebooks on Github.
 - https://www.edx.org/course/statistical-learning
+
 Deep Learning Specialization @ Coursera - 3 courses
 - https://www.coursera.org/specializations/deep-learning
 
@@ -55,6 +59,7 @@ Now I know Python and Statistics, what about Data Science?
 For a quick look into Data Science for free without an option for a certificate:
 Learn Data Science Tutorial - Full Course for Beginners (Cool intro, Barton Paulson loves R but most nowadays recommend to learn Python instead)
 - https://www.youtube.com/watch?v=ua-CiDNNj30
+
 Matthew Brett's Data Science course borrows heavily from a UC Berkeley DS course but uses pandas and matplotlib instead of the custom libraries UC Berkeley uses to teach the course (which aren't used outside in the "real world")
 - https://matthew-brett.github.io/cfd2019/chapters/01/intro
 - http://data8.org/ (The UC Berkeley course)
