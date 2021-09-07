@@ -15,7 +15,7 @@ Please note, my code may not be the most Pythonic nor may yield the best results
 This repository does not contain the underlying data files that are needed to run the Python notebooks but can be obtained via each course's Jupyter notebooks.
 
 There are so many data science learning resources online. I am interested in courses that are Python based and on-demand.  
-Pressing on, I plan to take Jose Portilla's 2021 Python for Machine Learning & Data Science Masterclass:
+Pressing on, I am now taking Jose Portilla's 2021 Python for Machine Learning & Data Science Masterclass:
 https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/
 
 If you are looking for data science resources, check out this list:
