@@ -2,7 +2,7 @@
 Coursera - University of Michigan - Applied Data Science with Python - assignments
 https://www.coursera.org/specializations/data-science-python
 
-These assignments were submitted for the 5 courses in the University of Michigan's Applied Data Science with Python specialization offered on Coursera. I enjoyed the specialization which offered a broad applied intro to the field. Due to the focus on "applied", there are gaps in theory as well as practice but overall seems to be a solid start to my data science learning journey.
+These assignments were submitted for the 5 courses in the University of Michigan's Applied Data Science with Python specialization offered on Coursera. I enjoyed the specialization which provides a broad applied intro to the field. Due to the focus on "applied", there are gaps in theory as well as practice but overall seems to be a solid start to my data science learning journey.
 
 The courses in the specialization are:
 1. Introduction to Data Science with Python
@@ -34,7 +34,7 @@ Python Data Science Handbook - free textbook recommended by most
 
 An Introduction to Statistical Learning with Applications in R (ISLR) - free textbook recommended by most
 - https://www.statlearning.com/
-- https://github.com/JWarmenhoven/ISLR-python (converted ISLR's R code to Python)
+- https://github.com/JWarmenhoven/ISLR-python (Jordi Warmenhoven converted ISLR's R code to Python)
 
 Statistical Learning @ EdX - 1 course. The course uses R but I may just go through the textbook which is free and there are a few people who have converted the R code to Python and posted their jupyter notebooks on Github.
 - https://www.edx.org/course/statistical-learning
@@ -48,7 +48,7 @@ Foundations of Python Programming - I completed this online textbook through Cou
 - https://runestone.academy/runestone/books/published/fopp/index.html
 - https://runestone.academy/runestone/default/user/register
 
-Now I know Python, what about Statistics?
+What about an intro Statistics course?
 
 OpenIntro Statistics - used at UC Irvine for undergraduate and graduate stats courses as well as numerous community colleges and top tier universities.
 If you click on the "Labs" tab, you can see exercises using R as well as Python.
